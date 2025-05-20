@@ -1,0 +1,18 @@
+{
+  "name": "vga-aframe",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aframe": "^1.7.1",
+    "aframe-extras": "^7.5.4",
+    "aframe-physics-system": "git://github.com/n5ro/aframe-physics-system.git"
+  },
+  "devDependencies": {
+    "vite": "^6.2.4"
+  }
+}
