@@ -3,6 +3,8 @@
 ### Good to known:
 
 Visual Inspector - CTRL + OPTION + I
+https://aframe.io/docs/1.7.0/components/raycaster.html
+https://aframe.io/docs/1.7.0/core/component.html
 
 ### Modely:
 
